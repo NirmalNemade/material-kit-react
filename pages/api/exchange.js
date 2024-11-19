@@ -8,5 +8,5 @@ soap.createClient(wsdlUrl, (err, client) => {
     return;
   }
   console.log('SOAP Client created:', client);
-  // Use the client to call methods on the service
+  // Use the client to call methods on the service njhegdyegf
 });

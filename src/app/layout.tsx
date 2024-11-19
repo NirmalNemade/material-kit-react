@@ -12,7 +12,7 @@ export const viewport = { width: 'device-width', initialScale: 1 } satisfies Vie
 interface LayoutProps {
   children: React.ReactNode;
 }
-
+//jhgfhrejgf
 export default function Layout({ children }: LayoutProps): React.JSX.Element {
   return (
     <html lang="en">
